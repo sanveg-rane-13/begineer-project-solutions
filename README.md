@@ -4,4 +4,4 @@ solutions for projects listed on: https://github.com/jorgegonzalez/beginner-proj
 Language of choice: Python
 
 1) 99 Bottles
-  - Print the lyrics of song - 99 Bottles of Beer without using list of numbers
+2) Pythagorean triplets
